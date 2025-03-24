@@ -1,4 +1,4 @@
-# Weird Motions Lab - Open Bionic Arm
+# Weird Motions Lab - Bionic Arm
 
 <img src="https://github.com/user-attachments/assets/5328c469-40ae-4dbd-a03d-4296725d85a0"> 
 
